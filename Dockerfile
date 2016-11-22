@@ -1,4 +1,4 @@
-FROM ruby:2.3.2
+FROM ruby:2.3.3
 
 MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
