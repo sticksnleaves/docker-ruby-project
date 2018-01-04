@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`2.4.1`, `2.4`, `latest` (2.4/Dockerfile)](https://github.com/sticksnleaves/docker-ruby-project/blob/812cc9547bbc317d203d2676ea0dedd904f1d437/Dockerfile)
+* [`2.4.3`, `2.4`, `latest` (2.4/Dockerfile)](https://github.com/sticksnleaves/docker-ruby-project/blob/e7356ad75361bf9f37e1c179fb49703ea429047f/Dockerfile)
 * [`2.3.3`, `2.3` (2.3/Dockerfile)](https://github.com/sticksnleaves/docker-ruby-project/blob/bf0ef5aea56d41a338c4f8de018eedba9e2b6a4c/Dockerfile)
 
 # What is this image?
