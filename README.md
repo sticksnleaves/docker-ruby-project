@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`2.5.0`, `2.5` (2.5/Dockerfile)](https://github.com/sticksnleaves/docker-ruby-project/blob/1606d8bf2ab3d37479d211d07ca31c9e31bf4755/Dockerfile)
+* [`2.5.1`, `2.5` (2.5/Dockerfile)](https://github.com/sticksnleaves/docker-ruby-project/blob/bdf35fb3b6061c694dc312933fc370cdd2bf14cd/Dockerfile)
 * [`2.4.3`, `2.4` (2.4/Dockerfile)](https://github.com/sticksnleaves/docker-ruby-project/blob/e7356ad75361bf9f37e1c179fb49703ea429047f/Dockerfile)
 * [`2.3.3`, `2.3` (2.3/Dockerfile)](https://github.com/sticksnleaves/docker-ruby-project/blob/bf0ef5aea56d41a338c4f8de018eedba9e2b6a4c/Dockerfile)
 
